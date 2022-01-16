@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+header{
+    margin-left: 5%;
+}
+.part-1{
+    display: flex;
+    margin-left: 5%;
+
+}
+.img-class {
+    width:70%;
+}
+h1{
+    font-size: 30px;
+}
+.banner-part{
+    
+}
+button{
+    color:white;
+    background-color: crimson;
+    border-radius:25%;
+    border
+}
